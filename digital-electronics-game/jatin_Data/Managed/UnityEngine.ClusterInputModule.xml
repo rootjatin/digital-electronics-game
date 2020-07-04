@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <doc>
+  <!--@author jatin sharma rootjatin-->
   <members>
     <assembly>
       <name>UnityEngine.ClusterInputModule</name>
